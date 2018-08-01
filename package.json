@@ -15,12 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/RealOrangeOne/react-native-mock.git"
   },
-  "keywords": [
-    "react",
-    "react-native",
-    "mock",
-    "testing"
-  ],
+  "keywords": ["react", "react-native", "mock", "testing"],
   "author": "Jake Howard <git@theorangeone.net>",
   "license": "MIT",
   "bugs": {
@@ -41,8 +36,8 @@
     "eslint-plugin-react": "5.1.1",
     "eslint-plugin-react-native": "1.0.2",
     "mocha": "2.5.3",
-    "react": "^15.4.0",
-    "react-native": "^0.38.0"
+    "react": "16.0.0",
+    "react-native": "0.51.0"
   },
   "dependencies": {
     "cubic-bezier": "^0.1.2",
